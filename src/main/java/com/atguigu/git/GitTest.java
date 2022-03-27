@@ -18,5 +18,7 @@ public class GitTest {
         System.out.println("你是魔鬼中的天使，所以送我心碎的方式");
         System.out.println("如果那天你不知道我喝了多少杯");
         System.out.println("江湖啊，江湖，社会呀，社会");
+        System.out.println("高速路口等你");
+        System.out.println("我在西湖等你");
     }
 }
