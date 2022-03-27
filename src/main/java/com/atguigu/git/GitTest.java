@@ -13,6 +13,8 @@ public class GitTest {
         System.out.println("pull test!");
         System.out.println("情有独钟");
         System.out.println("吃不了学习的苦，就要吃没钱的苦");
+
+        System.out.println("你是不是傻子");
         System.out.println("你是魔鬼中的天使，所以送我心碎的方式");
         Sysetm.out.println("如果那天你不知道我喝了多少杯");
     }
